@@ -1,4 +1,4 @@
-![blackho1e's github stats](https://github-readme-stats.vercel.app/api?username=blackdole&show_icons=true&theme=vue-dark)
+![blackho1e's github stats](https://github-readme-stats.vercel.app/api?username=blackdole&show_icons=true&theme=dark)
 
 <!--
 **blackdole/blackdole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
